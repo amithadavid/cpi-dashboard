@@ -7,3 +7,5 @@ It has the Sector, Year, Month, General index, and individual indices of differe
 Data pre-processing is done using python. Also uploaded here. 
 
 Visualisation is done using Tableau. After the individual graphs were created, an interactive dashboard was also created, which is very useful in understanding the effect of each sector and timeline on the individual CPIs.
+
+![image](https://github.com/amithadavid/cpi-dashboard/assets/129505773/f8d77e6f-27fa-4a4b-ba82-6f4efbaf2a08)
